@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vu0TvH8D27ie8W6K2q+m0oYYDiiedj3fRnpLeMv5wGN3sxQEzxsxkLZjBHk2NUEKZgi6XHlSTabRc5nZXEE8tQ==",
+  "success": true,
+  "projectFilePath": "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Web/SolarCoffee.Web.csproj",
+  "expectedPackageFiles": [
+    "/home/arjuna/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/arjuna/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/arjuna/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/arjuna/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/arjuna/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/arjuna/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

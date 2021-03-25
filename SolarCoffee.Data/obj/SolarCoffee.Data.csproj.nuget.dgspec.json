@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj": {}
+    "A:\\Code\\Csharp\\solar-coffee\\SolarCoffee.Data\\SolarCoffee.Data.csproj": {}
   },
   "projects": {
-    "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj": {
+    "A:\\Code\\Csharp\\solar-coffee\\SolarCoffee.Data\\SolarCoffee.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj",
+        "projectUniqueName": "A:\\Code\\Csharp\\solar-coffee\\SolarCoffee.Data\\SolarCoffee.Data.csproj",
         "projectName": "SolarCoffee.Data",
-        "projectPath": "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj",
-        "packagesPath": "/home/arjuna/.nuget/packages/",
-        "outputPath": "/home/arjuna/Clones/moderncsharp/SolarCoffee/SolarCoffee.Data/obj/",
+        "projectPath": "A:\\Code\\Csharp\\solar-coffee\\SolarCoffee.Data\\SolarCoffee.Data.csproj",
+        "packagesPath": "C:\\Users\\abifoluwa\\.nuget\\packages\\",
+        "outputPath": "A:\\Code\\Csharp\\solar-coffee\\SolarCoffee.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/arjuna/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\abifoluwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

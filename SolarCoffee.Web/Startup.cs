@@ -29,11 +29,12 @@ namespace SolarCoffee.Web
 
             services.AddControllers();
             
+            // Connection strings. Add reference to AddDbContext.
             services.AddDbContext<SolarDbContext>(opts => 
-                {
-                    opts.EnableDetailedErrors();
-                    opts.UseNpgsql(Configuration.GetConnectionString("solar.dev"))
-                });
+            { 
+                opts.EnableDetailedErrors(); 
+                opts.UseNpgsql(Configuration.GetConnectionString("solar.dev"))
+            });
             
             services.AddSwaggerGen(c =>
             {

@@ -1,0 +1,5 @@
+A:\Code\Csharp\solar-coffee\SolarCoffee.Data\obj\Debug\net5.0\SolarCoffee.Data.csprojAssemblyReference.cache
+A:\Code\Csharp\solar-coffee\SolarCoffee.Data\obj\Debug\net5.0\SolarCoffee.Data.GeneratedMSBuildEditorConfig.editorconfig
+A:\Code\Csharp\solar-coffee\SolarCoffee.Data\obj\Debug\net5.0\SolarCoffee.Data.AssemblyInfoInputs.cache
+A:\Code\Csharp\solar-coffee\SolarCoffee.Data\obj\Debug\net5.0\SolarCoffee.Data.AssemblyInfo.cs
+A:\Code\Csharp\solar-coffee\SolarCoffee.Data\obj\Debug\net5.0\SolarCoffee.Data.csproj.CoreCompileInputs.cache

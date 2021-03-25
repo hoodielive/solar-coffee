@@ -28,6 +28,11 @@ namespace SolarCoffee.Web
         {
 
             services.AddControllers();
+            services.AddDbContext<SolarDbContext>(opts => {
+                        opts.EnableDetailedErrors();
+                        opts.UseNpgsql(Configuration.GetConnectionString("solar.dev"))
+                       }
+                    );
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SolarCoffee.Web", Version = "v1" });
